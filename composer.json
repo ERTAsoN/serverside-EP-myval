@@ -1,0 +1,21 @@
+{
+  "name": "ertason/serverside-ep-myval",
+  "description": "Module for input validation",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "MyVal\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "ERTAsoN",
+      "email": "savel.andr.ivanov@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": "^8.1"
+  }
+}
